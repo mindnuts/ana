@@ -1,0 +1,10 @@
+/src/web/main1.js
+/src/web/--location
+/npm-debug.log
+/node-gyp
+node_modules
+bower_components
+src/web/vendor
+src/web/assets/vendor
+src/web/dist
+
